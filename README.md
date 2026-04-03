@@ -4,7 +4,7 @@
 
 ---
 
-## <b>🚀 About Me  </b>
+## <b> About Me  </b>
 
 
 
@@ -67,8 +67,3 @@
 
 ---
 
-## ✨ Quote  
-
-<p align="center">
-<h4> <b>"Not settling for the ordinary." </b> </h4>
-</p>
