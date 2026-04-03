@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sayma;Java+Learner+%7C+Problem+Solver+%7C+BRAC+University+Student;Building+My+CS+Foundation+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=Hi+Saima's+ here;Java+Learner+%7C+Problem+Solver />
 </p>
 
 ---
 
 # 🚀 About Me  
 
-💻 Java Learner  
-🎓 Currently studying at BRAC University, Bangladesh. 
-🧠 Passionate about Problem Solving & Competitive Programming. 
-🔥 Focused on mastering Java, Data Structures & core programming fundamentals.   
+-💻 Java Learner  
+-🎓 Currently studying at BRAC University, Bangladesh. 
+-🧠 Passionate about Problem Solving & Competitive Programming. 
+-🔥 Focused on mastering Java, Data Structures & core programming fundamentals.   
 
 ---
 
