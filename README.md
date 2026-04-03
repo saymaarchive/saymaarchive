@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=Hi+Saima's+ here;Java+Learner+%7C+Problem+Solver />
+  Hi, Saima Here!
 </p>
 
 ---
@@ -14,28 +14,28 @@
 ---
 
 ## 🌐 Connect with me  
-
 <p align="center">
+
 <a href="https://github.com/Saymaarchive" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://gmail.com/profile/https://s.rahima004@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=codeforces" height="45"/>
+<a href="mailto:s.rahima004@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://linkedin.com/Saima A./https://www.linkedin.com/in/saima-a-5129b92a0/" target="_blank">
+<a href="https://www.linkedin.com/in/saima-a-5129b92a0/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="https://www.facebook.com/profile.php?id=100063582606249" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+</a>
 
-<a href="https://facebook.com/Rahima/https://www.facebook.com/profile.php?id=100063582606249" target="_blank">
+<a href="https://codeforces.com/profile/saima_a" target="_blank">
 <img src="https://skillicons.dev/icons?i=codeforces" height="45"/>
 </a>
 
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/saima_a." target="_blank">
-<img src="https://skillicons.dev/icons?i=codeforces" height="45"/>
-</a>
 </p>
 
 ---
@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saymaarchive&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymaarchive&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saymaarchive&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymaarchive&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -61,14 +61,6 @@
 
 <p align="center">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_HANDLE&theme=dark" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
