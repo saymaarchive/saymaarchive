@@ -8,11 +8,11 @@
 
 
 
-- 💻 Java Learner  
-- 🎓 Currently studying at BRAC University, Bangladesh  
-- 🧠 Passionate about Problem Solving & Competitive Programming  
-- 🔥 Focused on mastering Java, Data Structures & Core Programming Fundamentals  
-
+  
+- 🌱 Currently studying at **BRAC University, Bangladesh**  
+- 🧠 Currently learning **JAVA.**  
+- 🔥 Focused on mastering **Java, Data Structures & Core Programming Fundamentals.**
+- 📩 Email me **s.rahima004@gmail.com**
 ---
 
 ## 🌐 Connect with me  
@@ -62,7 +62,7 @@
 ## 🏆 Competitive Programming  
 
 <p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_HANDLE&theme=dark" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=saima_a.&theme=dark" />
 </p>
 
 ---
@@ -70,5 +70,5 @@
 ## ✨ Quote  
 
 <p align="center">
-"Not settling for the ordinary."
+<h4> <b>"Not settling for the ordinary." </b> </h4>
 </p>
