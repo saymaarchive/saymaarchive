@@ -59,7 +59,6 @@
 
 ---
 
-### Competitive Programming  
 
 <p align="left">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saima_a.&theme=github_dark" />
