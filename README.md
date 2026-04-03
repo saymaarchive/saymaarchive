@@ -42,7 +42,7 @@
 
 ---
 
-### Tech Stack  
+### Languages & Tools  
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Saymaarchive&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
