@@ -6,7 +6,7 @@
 
 ## <b> About Me  </b>
 
-
+ 
 
   
 - 🌱 Currently studying at **BRAC University, Bangladesh**  
@@ -15,7 +15,7 @@
 - 📩 Email me **s.rahima004@gmail.com**
 ---
 
-# Connect with me  
+### Connect with me  
 <p align="left">
 
 <a href="https://github.com/Saymaarchive" target="_blank">
@@ -42,7 +42,7 @@
 
 ---
 
-# Tech Stack  
+### Tech Stack  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java" />
@@ -50,7 +50,7 @@
 
 ---
 
-# 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saymaarchive&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -59,7 +59,7 @@
 
 ---
 
-# Competitive Programming  
+### Competitive Programming  
 
 <p align="center">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saima_a.&theme=dark" />
