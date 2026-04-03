@@ -44,7 +44,7 @@
 
 ### Tech Stack  
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Saymaarchive&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymaarchive&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
@@ -61,9 +61,8 @@
 
 ### Competitive Programming  
 
-<p align="center">
+<p align="left">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saima_a.&theme=dark" />
 </p>
 
 ---
-
