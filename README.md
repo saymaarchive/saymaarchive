@@ -1,15 +1,17 @@
 <p align="center">
-  Hi, Saima Here!
+  <h1 align="center">Hi, Saima Here! </h1>
 </p>
 
 ---
 
-# 🚀 About Me  
+## <b>🚀 About Me  </b>
 
--💻 Java Learner  
--🎓 Currently studying at BRAC University, Bangladesh. 
--🧠 Passionate about Problem Solving & Competitive Programming. 
--🔥 Focused on mastering Java, Data Structures & core programming fundamentals.   
+
+
+- 💻 Java Learner  
+- 🎓 Currently studying at BRAC University, Bangladesh  
+- 🧠 Passionate about Problem Solving & Competitive Programming  
+- 🔥 Focused on mastering Java, Data Structures & Core Programming Fundamentals  
 
 ---
 
